@@ -4,7 +4,7 @@
 
 *New Plants vs. Zombies JavaScript* is an open-source PvZ fan-made game produced by [JiangNanGame](http://www.jiangnangame.com).
 
-It's the earliest PvZ fan-made game by JiangNanGame, developed from 2015 to 2016. **So there are many bugs in this game.**
+It's the earliest web PvZ fan-made game by JiangNanGame, developed from 2015 to 2016. **So there are many bugs in this game.**
 
 If you are an ordinary player who wants to play this project, we hope you can **give it up** and turn to our latest PvZ fan-made game *[Plants vs. Zombies Travel](https://angel-shadow.itch.io/pvz-travel)*, which will bring you the best gaming experience.
 
